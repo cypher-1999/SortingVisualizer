@@ -1,0 +1,35 @@
+.array-bar{
+    width: 2px;
+    background-color: turquoise;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.array-container{
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    
+    left:100px
+}
+
+.legend-bar{
+    width:100px;
+    height: 15px;
+    display: inline-block;
+    
+    background-color: turquoise;
+}
+
+.legend-bar-compare{
+    width:100px;
+    height: 15px;
+    display: inline-block;
+   
+    background-color: red;
+}
+.heading{
+    background-color: thistle;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
